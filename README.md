@@ -3,6 +3,10 @@
 
 A decentralized crowdfunding platform built with React, Hardhat, Solidity, and Vite. Users can create campaigns, contribute ETH, withdraw funds, and claim refunds if goals are not met. Animated backgrounds and modern UI powered by Tailwind CSS and Vanta.js.
 
+# To See Active Campaign
+
+Connect to MetaMask sepolia Testnet.
+
 ## Features
 - Create and manage crowdfunding campaigns
 - Contribute ETH to campaigns
