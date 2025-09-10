@@ -1,4 +1,4 @@
-import { WalletOption } from "./walletoption";
+import { WalletOption } from "./WalletOption";
 
 export function Navbar() {
     return (
